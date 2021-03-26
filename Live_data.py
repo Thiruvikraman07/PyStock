@@ -25,7 +25,7 @@ class UpdateThread(Thread):
             else:
                 a = (datetime.now().strftime("%H:%M:%S"))
                 try:
-                    self.live_price = round(self.stock.history(period='1m', interval='1m')['Close'][0], 6)
+                    self.live_price = round(self.stock.history(period='1d', interval='1m')['Close'][-1], 6)
                 except:
                     pass
                 self.live_data.append(f"{self.live_price},{a}")
