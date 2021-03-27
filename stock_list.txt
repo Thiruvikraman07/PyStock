@@ -1,0 +1,16 @@
+Apple Inc., AAPL
+Amazon.com, AMZN
+Microsoft, MSFT
+Alphabet Inc.(Google), GOOG
+Facebook Inc., FB
+Berkshire Hathaway, BRK-A
+Alibaba Group, BABA
+Visa, V
+Jonhson & Jonhson, JNJ
+JPMorgan Chase, JPM
+Adobe, ADBE
+Ubisoft, UBI.PA
+Tesla, TSLA
+Reliance, RELIANCE.NS
+TATA Motors, TATAMOTORS.NS
+Mahindra & Mahindra, M&M.NS
