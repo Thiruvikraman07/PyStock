@@ -63,4 +63,23 @@ Instructions before running the script :
 Run the following commands in cmd
 1. pip install matplotlib
 2. pip install yfinance
+
+OUTPUT:
+APPLICATION WINDOW : 
+
+<img width="978" alt="Screenshot 2021-03-26 at 8 35 41 AM" src="https://user-images.githubusercontent.com/40484639/112571561-53b52980-8e0e-11eb-8cb6-43fdbd84adfe.png">
+
+Live Pricing and Company Info:
+
+<img width="296" alt="Screenshot 2021-03-26 at 8 36 48 AM" src="https://user-images.githubusercontent.com/40484639/112571666-89f2a900-8e0e-11eb-9024-4ec63c5252b4.png">
+
+Historial Graph :
+
+![Screenshot 2021-03-26 at 8 38 15 AM](https://user-images.githubusercontent.com/40484639/112571734-aabafe80-8e0e-11eb-84f0-f5467b7655a3.png)
+
+
+
+
+
+ 
      
